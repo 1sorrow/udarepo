@@ -10,3 +10,4 @@ function analyzeAsteroids(diameters) {
     console.log(`Total Asteroids: ${totalAsteroids}`);
     console.log(`Average Diameter: ${averageDiameter.toFixed(2)} km`);
 }
+console.log('commit')
