@@ -1,2 +1,3 @@
 # udarepo
-.
+
+## Asteroid fetcher, analyzer
